@@ -1,0 +1,14 @@
+baseURL = 'http://tldr.mansoorbarri.com/'
+languageCode = 'en-us'
+theme = 'tldr'
+
+[params] 
+    # For SEO
+    title = 'tldr.sh clone'
+    description = "A clone of tldr.sh for Hugo site generator." 
+    keywords = "tldr, hugo"
+
+    # For badges
+    badges = "true"
+    GithubRepo = "mansoorbarri/website"
+    Twitter = "mansoorbarri"

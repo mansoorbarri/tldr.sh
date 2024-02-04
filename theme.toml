@@ -1,0 +1,16 @@
+name = "tldr.sh"
+description = "A clone of tldr.sh for hugo static site generator"
+
+license = "MIT"
+licenselink = "https://github.com/mansoorbarri/tldr.sh/blob/main/LICENSE"
+
+homepage = "https://github.com/mansoorbarri/tldr.sh"
+demosite = "https://tldr.mansoorbarri.com/"
+
+tags = ["landing page", "clone"]
+
+authors = [
+  {name = "Mansoor Barri", homepage = "https://mansoorbarri.com"},
+]
+
+min_version = "0.111.3"
