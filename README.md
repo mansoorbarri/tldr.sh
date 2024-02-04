@@ -22,7 +22,7 @@ run these commands from the root of your site
 - copy files from examplesite to your site
   ```
   cp -r themes/tldr.sh/examplesite/config.toml . 
-  cp -r themes/tldr.sh/examplesite/content/* .
+  cp -r themes/tldr.sh/examplesite/content/* content/
   ```
 
 ## Licence
