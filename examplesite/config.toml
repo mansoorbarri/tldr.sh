@@ -1,6 +1,6 @@
 baseURL = 'http://tldr.mansoorbarri.com/'
 languageCode = 'en-us'
-theme = 'tldr'
+theme = 'tldr.sh'
 
 [params] 
     # For SEO
