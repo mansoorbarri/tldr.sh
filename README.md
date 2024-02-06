@@ -1,5 +1,5 @@
 ## tldr.sh
-A clone of [tldr.sh] for hugo site generator
+A clone of [tldr.sh](https://tldr.sh/) for hugo site generator
 
 ## Author:
 
