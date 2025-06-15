@@ -1,0 +1,3 @@
+[submodule "examplesite/themes/tldr"]
+	path = examplesite/themes/tldr
+	url = https://github.com/mansoorbarri/tldr.sh
