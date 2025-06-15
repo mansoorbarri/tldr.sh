@@ -1,3 +1,0 @@
-[submodule "examplesite/themes/tldr.sh"]
-	path = examplesite/themes/tldr.sh
-	url = git@github.com:mansoorbarri/tldr.sh.git
